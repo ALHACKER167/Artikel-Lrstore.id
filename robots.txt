@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://alhacker167.github.io/Artiket-Lrstore.id/sitemap.xml
